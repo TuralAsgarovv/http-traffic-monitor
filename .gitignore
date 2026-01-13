@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ətraf mühit faylları
+.env
+.venv
+env/
+venv/
+
+# Loglar
+*.log
+logs/
+
+# IDE parametrləri
+.vscode/
+.idea/
+
+# Paketləmə
+dist/
+build/
+*.egg-info/
+
+# Konfiqurasiya (əgər gizlidirsə)
+config/secrets.yaml
