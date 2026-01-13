@@ -31,7 +31,7 @@ Alternativ olaraq Docker istifadə edə bilərsiniz:
 docker build -t http-monitor .
 ```
 
-## İstifad
+## İstifadə
 
 Proqramı işə salmaq üçün (root hüquqları tələb oluna bilər):
 
