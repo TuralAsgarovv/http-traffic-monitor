@@ -1,0 +1,12 @@
+# Şəbəkə interfeysi (məsələn: eth0, wlan0, və ya 'any')
+interface: "eth0"
+
+# Log faylının yolu
+log_file: "logs/http_traffic.log"
+
+# Paket filtri (BPF sintaksisi)
+# Port 80 adi HTTP üçündür
+filter_expression: "tcp port 80"
+
+# Konsolda göstərmək üçün limit (baytla)
+max_display_len: 500
