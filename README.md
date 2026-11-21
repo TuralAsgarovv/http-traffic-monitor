@@ -36,7 +36,7 @@ docker build -t http-monitor .
 Proqramı işə salmaq üçün (root hüquqları tələb oluna bilər):
 
 ```bash
-sudo python3 src/main.py
+sudo ./venv/bin/python3 src/main.py
 ```
 
 ## Konfiqurasiya
