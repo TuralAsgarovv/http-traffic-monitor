@@ -20,7 +20,7 @@
 Layihəni klonlayın və asılılıqları quraşdırın:
 
 ```bash
-git clone https://github.com/username/http-traffic-monitor.git
+git clone https://github.com/TuralAsgarovv/http-traffic-monitor.git
 cd http-traffic-monitor
 ./setup.sh
 ```
